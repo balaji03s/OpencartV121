@@ -1,0 +1,6 @@
+13:40:10.0340 [main] INFO  Day49_testCases.TC001_AccountRegistrationTest -*****Starting testcase****
+13:40:10.0500 [main] INFO  Day49_testCases.TC001_AccountRegistrationTest -Clicked on my account link
+13:40:11.0034 [main] INFO  Day49_testCases.TC001_AccountRegistrationTest -Clicked on register link
+13:40:11.0050 [main] INFO  Day49_testCases.TC001_AccountRegistrationTest -Providing customer details
+13:40:12.0922 [main] INFO  Day49_testCases.TC001_AccountRegistrationTest -Validating expected message
+13:40:13.0011 [main] INFO  Day49_testCases.TC001_AccountRegistrationTest -****Finished Testcase*****
